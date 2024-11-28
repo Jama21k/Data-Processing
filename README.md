@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Welcome to My Portfolio</h1>
-    <p>I'm [Your Name], a [Your Profession]</p>
+    <p>I'm [Hussein Jama], a [Data Analytics]</p>
 </body>
 </html>
